@@ -6,17 +6,17 @@
 #define LOGIX_FORMATTER_HPP
 
 #include "Message.hpp"
-#include "fmt/FileFormatItem.hpp"
-#include "fmt/FormatItem.hpp"
-#include "fmt/LevelFormatItem.hpp"
-#include "fmt/LineFormatItem.hpp"
-#include "fmt/LoggerFormatItem.hpp"
-#include "fmt/MsgFormatItem.hpp"
-#include "fmt/NLineFormatItem.hpp"
-#include "fmt/OtherFormatItem.hpp"
-#include "fmt/TabFormatItem.hpp"
-#include "fmt/ThreadFormatItem.hpp"
-#include "fmt/TimeFormatItem.hpp"
+#include "logix/fmt/FileFormatItem.hpp"
+#include "logix/fmt/FormatItem.hpp"
+#include "logix/fmt/LevelFormatItem.hpp"
+#include "logix/fmt/LineFormatItem.hpp"
+#include "logix/fmt/LoggerFormatItem.hpp"
+#include "logix/fmt/MsgFormatItem.hpp"
+#include "logix/fmt/NLineFormatItem.hpp"
+#include "logix/fmt/OtherFormatItem.hpp"
+#include "logix/fmt/TabFormatItem.hpp"
+#include "logix/fmt/ThreadFormatItem.hpp"
+#include "logix/fmt/TimeFormatItem.hpp"
 
 #include <cassert>
 #include <cstddef>

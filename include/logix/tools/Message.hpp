@@ -6,8 +6,8 @@
 #define LOGIX_MESSAGE_HPP
 
 #include "Level.hpp"
-#include "utils/Date.hpp"
-#include "utils/File.hpp"
+#include "logix/utils/Date.hpp"
+#include "logix/utils/File.hpp"
 #include <ctime>
 #include <string>
 #include <thread>

@@ -2,13 +2,13 @@
 // Created by John on 27/07/2024
 //
 
-#include "logix/Formatter.hpp"
-#include "logix/Message.hpp"
 #include "logix/sink/FileSink.hpp"
 #include "logix/sink/LogSink.hpp"
 #include "logix/sink/RollBySizeSink.hpp"
 #include "logix/sink/SinkFactory.hpp"
 #include "logix/sink/StdOutSink.hpp"
+#include "logix/tools/Formatter.hpp"
+#include "logix/tools/Message.hpp"
 #include "logix/utils/Date.hpp"
 
 int main() {

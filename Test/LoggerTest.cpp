@@ -2,12 +2,12 @@
 // Created by John on 28/07/2024
 //
 
-#include "logix/Level.hpp"
 #include "logix/logger/SyncLogger.hpp"
 #include "logix/sink/FileSink.hpp"
 #include "logix/sink/LogSink.hpp"
 #include "logix/sink/SinkFactory.hpp"
 #include "logix/sink/StdOutSink.hpp"
+#include "logix/tools/Level.hpp"
 
 #include <memory>
 #include <vector>

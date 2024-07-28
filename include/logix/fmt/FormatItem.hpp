@@ -5,7 +5,7 @@
 #ifndef LOGIX_FMT_FORMATITEM_HPP
 #define LOGIX_FMT_FORMATITEM_HPP
 
-#include "../Message.hpp"
+#include "logix/tools/Message.hpp"
 #include <memory>
 #include <ostream>
 

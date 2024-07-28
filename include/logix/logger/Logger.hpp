@@ -5,10 +5,10 @@
 #ifndef LOGIX_LOGGER_HPP
 #define LOGIX_LOGGER_HPP
 
-#include "logix/Formatter.hpp"
-#include "logix/Level.hpp"
-#include "logix/Message.hpp"
 #include "logix/sink/LogSink.hpp"
+#include "logix/tools/Formatter.hpp"
+#include "logix/tools/Level.hpp"
+#include "logix/tools/Message.hpp"
 
 #include <cstdarg>
 #include <cstddef>

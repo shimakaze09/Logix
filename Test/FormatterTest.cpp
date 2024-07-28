@@ -2,7 +2,7 @@
 // Created by John on 27/07/2024
 //
 
-#include "Logix/Formatter.hpp"
+#include "logix/tools/Formatter.hpp"
 
 int main() {
   Logix::LogMsg msg;
