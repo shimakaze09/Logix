@@ -2,6 +2,7 @@
 // Created by John on 27/07/2024
 //
 
+#include "TestMacro.hpp"
 #include "logix/Logix.hpp"
 
 int main() {
